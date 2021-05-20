@@ -1,0 +1,22 @@
+{
+  "name": "nodeup",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hicommonwealth/nodeup.git"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@polkadot/api": "^3.6.4",
+    "@polkadot/util": "^5.4.4",
+    "@polkadot/util-crypto": "^5.4.4",
+    "commander": "^6.0.0",
+    "@edgeware/node-types": "3.3.3",
+    "uuid": "^3.4.0"
+  }
+}
